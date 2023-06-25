@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/97bf2b86d1f547d3821dc5c5db78af12/artifacts
+end_time: 1687695615537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97bf2b86d1f547d3821dc5c5db78af12
+run_name: fun-bat-779
+run_uuid: 97bf2b86d1f547d3821dc5c5db78af12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687695615486
+status: 3
+tags: []
+user_id: Bharat Dogra
