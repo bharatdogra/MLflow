@@ -32,8 +32,8 @@ def evaluate(y_true,y_pred, pred_prob):
     return mae,mse,rmse,r2'''
 
     accuracy = accuracy_score(y_true,y_pred)
-    roc_auc_score=roc_auc_score(y_true,pred_prob,multi_class='ovr')
-    return accuracy, roc_auc_score
+    roc_auc=roc_auc_score(y_true,pred_prob,multi_class='ovr')
+    return accuracy, roc_auc
 
 
 
@@ -62,20 +62,18 @@ def main(n_estimators, max_depth):
         pred=rf.predict(X_test)
         pred_prob=rf.predict_proba(X_test)
 
-
-## Evaluate the model
-    '''mae,mse,rmse,r2 = evaluate(y_test,pred)
-    print(f'mae= {mae*100}, mse= {mse*100},  rmse={rmse*100}, r2 = {r2*100}')'''
-        
-        accuracy,roc_auc_score = evaluate(y_test,pred,pred_prob)
+        accuracy,roc_auc = evaluate(y_test,pred,pred_prob)
     
         mlflow.log_param('n_estimators', n_estimators)
         mlflow.log_param("max_depth", max_depth)
 
         mlflow.log_metric('accuracy', accuracy)
-        mlflow.log_metric('roc_auc_score', roc_auc_score)
+        mlflow.log_metric('roc_auc_score', roc_auc)
 
-        print(f'accuracy={accuracy*100}')
+        # mlflow modelwith logging
+        mlflow.sklearn.log_model(rf,'randomforestmodel')
+
+        print(f'accuracy={accuracy*100}, roc_auc_score={roc_auc*100}')
 # what us the use of mlflow?
 # we are tracking our experiments
 

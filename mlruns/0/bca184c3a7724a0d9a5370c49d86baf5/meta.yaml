@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/bca184c3a7724a0d9a5370c49d86baf5/artifacts
+end_time: 1687772920839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bca184c3a7724a0d9a5370c49d86baf5
+run_name: skittish-kite-660
+run_uuid: bca184c3a7724a0d9a5370c49d86baf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772912847
+status: 3
+tags: []
+user_id: Bharat Dogra

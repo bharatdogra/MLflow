@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/147f9caa073f47b7a4e3b5fa5f6568d1/artifacts
+end_time: 1687772738942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 147f9caa073f47b7a4e3b5fa5f6568d1
+run_name: melodic-whale-33
+run_uuid: 147f9caa073f47b7a4e3b5fa5f6568d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772731414
+status: 3
+tags: []
+user_id: Bharat Dogra

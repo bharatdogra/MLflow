@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/c2235bc09e9940b3ba80d6d56f5123e0/artifacts
+end_time: 1687772951741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2235bc09e9940b3ba80d6d56f5123e0
+run_name: capricious-hound-55
+run_uuid: c2235bc09e9940b3ba80d6d56f5123e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772942965
+status: 3
+tags: []
+user_id: Bharat Dogra

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/9e10552be2884c8085886c94b2eb5dfc/artifacts
+end_time: 1687772838153
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e10552be2884c8085886c94b2eb5dfc
+run_name: bedecked-hen-533
+run_uuid: 9e10552be2884c8085886c94b2eb5dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772835875
+status: 4
+tags: []
+user_id: Bharat Dogra

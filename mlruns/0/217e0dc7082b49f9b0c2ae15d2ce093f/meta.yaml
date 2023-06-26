@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/217e0dc7082b49f9b0c2ae15d2ce093f/artifacts
+end_time: 1687772935678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 217e0dc7082b49f9b0c2ae15d2ce093f
+run_name: omniscient-ox-642
+run_uuid: 217e0dc7082b49f9b0c2ae15d2ce093f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772927909
+status: 3
+tags: []
+user_id: Bharat Dogra

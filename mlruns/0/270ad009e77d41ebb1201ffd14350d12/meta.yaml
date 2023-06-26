@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/270ad009e77d41ebb1201ffd14350d12/artifacts
+end_time: 1687772905225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 270ad009e77d41ebb1201ffd14350d12
+run_name: masked-foal-730
+run_uuid: 270ad009e77d41ebb1201ffd14350d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772896038
+status: 3
+tags: []
+user_id: Bharat Dogra

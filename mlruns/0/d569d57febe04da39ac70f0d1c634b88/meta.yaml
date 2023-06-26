@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/d569d57febe04da39ac70f0d1c634b88/artifacts
+end_time: 1687761772495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d569d57febe04da39ac70f0d1c634b88
+run_name: enthused-colt-272
+run_uuid: d569d57febe04da39ac70f0d1c634b88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687761772136
+status: 4
+tags: []
+user_id: Bharat Dogra

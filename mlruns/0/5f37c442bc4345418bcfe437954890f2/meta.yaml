@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/5f37c442bc4345418bcfe437954890f2/artifacts
+end_time: 1687772825888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f37c442bc4345418bcfe437954890f2
+run_name: whimsical-hog-898
+run_uuid: 5f37c442bc4345418bcfe437954890f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772816412
+status: 3
+tags: []
+user_id: Bharat Dogra

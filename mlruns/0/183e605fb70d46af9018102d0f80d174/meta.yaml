@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/183e605fb70d46af9018102d0f80d174/artifacts
+end_time: 1687772774428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 183e605fb70d46af9018102d0f80d174
+run_name: languid-dog-235
+run_uuid: 183e605fb70d46af9018102d0f80d174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772765877
+status: 3
+tags: []
+user_id: Bharat Dogra

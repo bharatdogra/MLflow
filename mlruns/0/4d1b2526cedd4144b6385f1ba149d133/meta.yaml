@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/4d1b2526cedd4144b6385f1ba149d133/artifacts
+end_time: 1687772854403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d1b2526cedd4144b6385f1ba149d133
+run_name: gaudy-snail-592
+run_uuid: 4d1b2526cedd4144b6385f1ba149d133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772845343
+status: 3
+tags: []
+user_id: Bharat Dogra

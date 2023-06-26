@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/cdb3978c6b2c426693deb86b10c7b6d5/artifacts
+end_time: 1687772757869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdb3978c6b2c426693deb86b10c7b6d5
+run_name: gentle-ray-741
+run_uuid: cdb3978c6b2c426693deb86b10c7b6d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772747889
+status: 3
+tags: []
+user_id: Bharat Dogra

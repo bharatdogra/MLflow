@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/69466b31c5a64d23827dcfa3b9e7d2df/artifacts
+end_time: 1687772808149
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69466b31c5a64d23827dcfa3b9e7d2df
+run_name: abrasive-elk-580
+run_uuid: 69466b31c5a64d23827dcfa3b9e7d2df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772798880
+status: 3
+tags: []
+user_id: Bharat Dogra

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/94e23996eb3740d2a794c9ac05d18bac/artifacts
+end_time: 1687772723356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94e23996eb3740d2a794c9ac05d18bac
+run_name: unruly-steed-441
+run_uuid: 94e23996eb3740d2a794c9ac05d18bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772713191
+status: 3
+tags: []
+user_id: Bharat Dogra

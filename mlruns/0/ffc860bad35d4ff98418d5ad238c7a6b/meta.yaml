@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/ffc860bad35d4ff98418d5ad238c7a6b/artifacts
+end_time: 1687772869304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffc860bad35d4ff98418d5ad238c7a6b
+run_name: languid-conch-771
+run_uuid: ffc860bad35d4ff98418d5ad238c7a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772861721
+status: 3
+tags: []
+user_id: Bharat Dogra

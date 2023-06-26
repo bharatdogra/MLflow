@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/d31c81deb24d415ab982eca9a186871e/artifacts
+end_time: 1687772504207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d31c81deb24d415ab982eca9a186871e
+run_name: amazing-dolphin-783
+run_uuid: d31c81deb24d415ab982eca9a186871e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772487073
+status: 3
+tags: []
+user_id: Bharat Dogra

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Bharat%20Dogra/mlflow/mlruns/0/bb6cbfd3df3c4dbab6987a4d4ede4fad/artifacts
+end_time: 1687772470391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb6cbfd3df3c4dbab6987a4d4ede4fad
+run_name: stylish-boar-313
+run_uuid: bb6cbfd3df3c4dbab6987a4d4ede4fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687772467700
+status: 4
+tags: []
+user_id: Bharat Dogra
